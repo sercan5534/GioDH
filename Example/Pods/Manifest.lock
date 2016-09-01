@@ -1,0 +1,22 @@
+PODS:
+  - GioDH (0.1.0)
+  - Nimble (3.2.0)
+  - Quick (0.9.2)
+
+DEPENDENCIES:
+  - GioDH (from `../`)
+  - Nimble (~> 3.0)
+  - Quick (~> 0.8)
+
+EXTERNAL SOURCES:
+  GioDH:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GioDH: 868608befa1cd08384296c246c7e302a565f9826
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+
+PODFILE CHECKSUM: 2b14d95caef413a7a4d8f70022bf86e3737b90da
+
+COCOAPODS: 1.0.1

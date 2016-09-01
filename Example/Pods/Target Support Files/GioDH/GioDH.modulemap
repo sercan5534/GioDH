@@ -1,0 +1,6 @@
+framework module GioDH {
+  umbrella header "GioDH-umbrella.h"
+
+  export *
+  module * { export * }
+}
